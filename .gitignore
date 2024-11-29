@@ -4,3 +4,11 @@ __pycache__
 /build
 /dist
 *.egg-info
+model
+lm-evaluation-harness
+results
+dataset
+weight
+jamba_weight
+reorder_model
+original_files
